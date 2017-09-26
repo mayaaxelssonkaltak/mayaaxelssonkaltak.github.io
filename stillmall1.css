@@ -1,3 +1,13 @@
 body {
-    background-color:lightpink;
+    background-color:lightgray;
+}
+header{
+    background-color:thistle;
+}
+footer{
+    background-color:white;
+    min-height:50px;
+    position: absolute;
+    bottom: 0;
+    width: 100%
 }
