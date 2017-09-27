@@ -1,11 +1,27 @@
 body {background-color:white;
 }
+
 table {background-color: lightgray;
 }
+
 th {color: steelblue;
     
 }
     
 tfoot {background-color: powderblue;
     
+}
+
+
+fontfamily {"Courier New";
+    
+}
+h1 {font-family: cursive;
+    
+}
+h1 {border-bottom: 3px solid black;
+    
+}
+
+main { font-family: monospace;
 }
