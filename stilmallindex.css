@@ -33,6 +33,7 @@ p {
 main {
     display: inline-block;
     width: 60%;
+   
       
 }
 nav#meny {
@@ -63,5 +64,5 @@ footer nav a {
     padding: 8px 5px;
     text-decoration: none;
     border-radius: 20px;
-    background-color: white
+    background-color: white;
 }
