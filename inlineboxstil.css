@@ -1,0 +1,14 @@
+section {
+    max-width: 49%;
+    min-width: 320px;
+    background-color: navajowhite; 
+    display: inline-block;
+    vertical-align: top;
+    min-height: 400px
+}
+img{
+    float: right
+}
+* {
+  box-sizing: border-box;
+}
