@@ -45,13 +45,8 @@ nav#meny {
 }
 
 footer nav {
-    display: inline-block;
-    margin: 10px;
-    border: 5px solid white;
-    padding: 10px 5px;
-    text-decoration: none;
-    border-radius: 30px;
-    
+            border: none;
+            
 }
 h3 { 
     border-bottom: 1px solid white;
@@ -59,4 +54,14 @@ h3 {
 }
 footer h3 {
     width: 100%
+}
+
+footer nav a {
+    display: inline-block;
+    margin: 5px 5px;
+    border: 1px solid black;
+    padding: 8px 5px;
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: white
 }
