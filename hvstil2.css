@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(102,102,102);
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color:rgb(68,68,68);
+    color: white;
+    width: 900px;
+}
+div {
+    background-color:rgb(228,240,249);
+    width: 900px;
+    margin: auto;
+}
+
+footer {
+    background-image: url(vatten.jpg);
+    background-position: bottom; 
+    background-size: cover;
+    min-height: 350px;
+}
+footer h2 {
+    padding: 40px 25px;
+}
+
+p, h1, h2, a {
+    padding: 0 25px;
+}
+img {
+    float: right;
+    padding: 0 20px;
+}
