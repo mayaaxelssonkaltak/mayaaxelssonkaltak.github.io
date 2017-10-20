@@ -1,0 +1,23 @@
+body { 
+    background-color:rgb(207,199,255);
+    font-family: sans-serif;
+    
+       
+}
+header {
+    background-color:rgb(190,156,250);
+    font-family: sans-serif;
+    width: 900px;
+    
+}
+
+h1 {
+    background-color:rgb(144,0,255);
+    font-family: sans-serif;
+    color: white;
+    
+}
+div {
+    width:900px;
+    margin: auto;
+}
