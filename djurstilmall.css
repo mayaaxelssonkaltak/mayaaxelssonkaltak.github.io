@@ -1,0 +1,28 @@
+header {
+    background-color: black;
+    font-family: sans-serif;
+    padding: 5px;
+    
+}
+h1 {
+    color:white;
+    padding-left: 500px
+}
+
+footer {
+    background-color: black;
+    color: white;
+    height: 50px;
+
+}
+
+td.color {
+    background-color: lightgray;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer p {
+    padding-top: 15px;
+    padding-left: 10px;
+}
