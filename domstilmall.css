@@ -1,0 +1,36 @@
+header {
+    background-color: skyblue;
+    font-family: "Times New Roman", Times, serif;
+    padding: 5px;
+    
+}
+h1 {
+    color:white;
+    padding-left: 500px;
+    font-size: 40px;
+}
+button {
+    background-color: darkseagreen;
+    color: white;
+    padding: 7px;
+    font-size: 15px;
+    font-family: monospace;
+}
+p:first-of-type{
+    background-color: lightcyan;
+    padding: 5px;
+}
+p:nth-of-type(2) {
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+}
+h2 {
+    font-family: Times New Roman;
+    font-size: 30px;
+    text-decoration: underline;
+    
+    
+}
+p {
+    font-size: 18px
+}
