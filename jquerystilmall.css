@@ -5,4 +5,19 @@ div#info {
 #openinfo {
     cursor: pointer;
 }
-
+.selected {
+   background-color: black;
+   color: white;
+}
+input[type="color"] {
+ width:30px;
+ height:30px;
+}
+div {
+    background-color: white;
+    padding: 10px;
+    display: inline-block;
+    min-height: 250px;
+    width: 250px;
+    
+}
