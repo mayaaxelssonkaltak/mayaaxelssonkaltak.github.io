@@ -1,6 +1,7 @@
 body {
     text-align: center;
     font-size: 1.9em;
+    background-image: url(hacker-1944688_1280.jpg);
 }
 
 button {
@@ -11,4 +12,57 @@ p {
 }
 ul {
     font-size: 0.5em;
+}
+#sakerhet {
+    background-color: white;
+    width: 400px;
+}
+#tres {
+    background-color: white;
+    height: 100%;
+    
+}
+h1 {
+    color: white;
+}
+#schysst {
+    background-color: white;
+    width: 400px
+   
+}
+#standard {
+    background-color: white;
+    width: 400px;
+}
+div#info {
+    display: none;
+}
+
+#openinfo {
+    cursor: pointer;
+}
+div {
+    font-size: 22px
+}
+@media (min-width: 400px){
+    #tres {
+        height: 13em;
+        padding: 10px;
+    }
+    #schysst {
+        height: 20em;
+        padding: 3px;
+        width: 44.5em;
+    }
+    #standard {
+        height: 25.5em;
+        width: 44.5em;
+        padding: 2px;
+    }
+    #sakerhet {
+        width: 44.5em;
+    }
+    div#info {
+        background-color: white; 
+    }
 }
