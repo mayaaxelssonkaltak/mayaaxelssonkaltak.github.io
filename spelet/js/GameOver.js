@@ -3,6 +3,10 @@ var elev;
 var GameOver = {
     create: function(){
         
+        //Bakgrunden 
+       
+        this.add.tileSprite(0, 0, 900, 700, "slutet");
+        
         //skapar textstilar
         var stil = { font: "50px Arial", fill: "#fff"};
         

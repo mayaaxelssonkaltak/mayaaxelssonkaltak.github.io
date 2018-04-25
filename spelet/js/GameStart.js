@@ -1,7 +1,8 @@
 var GameStart = {
     //Bilder som används i spelet
     preload: function(){
-        this.load.image('background', 'assets/vaska.jpg');
+        this.load.image('background', 'assets/bakgrund.png');
+        this.load.image('slutet', 'assets/slutet.png');
         this.load.image('play', 'assets/play.png');
         this.load.image('phaser', 'assets/shopwoman.png');
         this.load.image('Bag', 'assets/bag.png');
@@ -10,7 +11,7 @@ var GameStart = {
     },
     //Bakgrunden 
     create: function(){
-        this.add.tileSprite(0, 0, 1000, 850, "background");
+        this.add.tileSprite(0, 0, 950, 800, "background");
         
         //var namn = this.add.text(game.world.centerX, 200, "spelet", {fontSize: "55px", fill: "#fff" });
         //namn.anchor.setTo(0.5)
